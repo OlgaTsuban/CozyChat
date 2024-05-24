@@ -1,0 +1,12 @@
+obj
+db/sqlite.db
+db/db.sqlite
+.*a
+.*o
+*.txt
+/test
+/.nx
+.DS_Store
+uchat
+uchat_server
+uchat.glade~
